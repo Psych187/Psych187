@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there!</h1>
 
-<!--
-**Psych187/Psych187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a beginner in Front-end development
+- I love programming
+- I'm into learning something new
+- I love my dog
 
-Here are some ideas to get you started:
+### Languages and tools
+JavaScript
+.Net
+Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me
