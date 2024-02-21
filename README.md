@@ -7,7 +7,9 @@
 
 ### Languages and tools
 JavaScript
+
 .Net
+
 Visual Studio Code
 
 ### Follow me
